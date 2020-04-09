@@ -10,11 +10,10 @@ title: Stephen Laide
 description: My personal website, blog and portfolio.
 logo: 
 image: 
-social:
-  name: Stephen Laide
-  links:
-    - https://linkedin.com/in/stephenlaide
-    - https://github.com/laideybug
+contact:
+  email: stephenlaide@icloud.com
+  linkedin: https://linkedin.com/in/stephenlaide
+  github: https://github.com/laideybug
   
 permalink: pretty
 
