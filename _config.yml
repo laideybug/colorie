@@ -1,33 +1,22 @@
-site: Colorie
+site: Stephen Laide
 url: 
-author: Colorie
+author: Stephen Laide
 author:
-  name: Colorie
-  email: 
+  name: Stephen Laide
+  email: stephenlaide@icloud.com
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: Stephen Laide
+description: My personal website, blog and portfolio.
 logo: 
 image: 
-twitter: ronaldsvilcins  
-twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
-  card: summary
 social:
-  name: Ronalds Vilcins
+  name: Stephen Laide
   links:
-    - https://twitter.com/#
-    - https://www.dribbble.com/#
-    - https://github.com/#
-    - https://codepen.io/#
+    - https://linkedin.com/in/stephenlaide
+    - https://github.com/laideybug
   
 permalink: pretty
-
-disqus:
-  name: "your disqus username" # required
-  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 baseurl:             ""
 
@@ -47,7 +36,6 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-  - disqus-for-jekyll
 
 collections:
   pages:
