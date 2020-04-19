@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-{% include picture.html img="profile" ext="jpeg" alt="profile" %}
+![me](../assets/images/profile.jpeg)
 
 # About me
 
