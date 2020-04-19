@@ -6,7 +6,7 @@ summary: Exploring microarray gene expression biclustering on the Parallella III
 category: Embedded Systems, Machine Learning
 ---
 
-![image](../assets/images/parallella.jpeg)
+{% include picture.html img="parallella" ext="jpeg" alt="parallella" %}
 
 ## Introduction
 
